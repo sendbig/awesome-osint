@@ -1725,6 +1725,7 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#contents) Cloud Storage and File Sharing
 
+* [SendBig](https://www.sendbig.com)
 * [4Shared](http://www.4shared.com)
 * [ADrive](http://www.adrive.com)
 * [Amazon Cloud drive](https://www.amazon.com/clouddrive/home)
